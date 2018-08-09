@@ -1,0 +1,15 @@
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/bin/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.deps.json
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/bin/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.runtimeconfig.json
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/bin/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/bin/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.dll
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/bin/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.pdb
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/obj/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/obj/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/obj/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/obj/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/obj/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.dll
+/Users/JuanCMontoya/Projects/vscode/Selenium/SeleniumParallelTestVSCode/obj/Debug/netcoreapp2.0/SeleniumParallelTestVSCode.pdb
